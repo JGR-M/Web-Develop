@@ -19,10 +19,10 @@ i.icon-green {
     margin: auto;
     width: 300px;
     height: 300px;
-    background-image: url('/images/tech-world.jpg');
+    background-image: url('/images/blue-cyberworld.jpg');
     border-radius: 50%;
     background-size: cover;
-    box-shadow: -20px -20px 50px 2px #000 inset, 0 0 20px 2px #000;
+    box-shadow: -10px -10px 40px 2px #000 inset, 0 0 10px 2px #000;
     animation: spin 30s linear alternate infinite;
 }
 
