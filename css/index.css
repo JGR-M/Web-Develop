@@ -29,3 +29,17 @@ i.icon-green {
 @keyframes spin{
     100%{background-position: 100%;}
 }
+
+
+
+.CONTAINER {
+    color: lightskyblue;
+    text-align: center;
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 30px;
+}
+
+h3 {
+    color: mintcream;
+    font-size: 20px;
+}
