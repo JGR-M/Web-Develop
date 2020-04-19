@@ -2,6 +2,11 @@ body {
     background-image: url('/images/backgr.png');
 }
 
+span{ 
+    color: whitesmoke;
+}
+
+
 .sidenav {
     position: fixed;
 }
