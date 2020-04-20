@@ -2,3 +2,6 @@ body {
     background-image: url('/images/backgr.png');
 }
 
+p {
+    font-size: 20px;
+}

@@ -2,6 +2,14 @@ body {
     background-image: url('/images/backgr.png');
 }
 
-.card {
-    background-color: transparent;
+.card-content {
+    background-color: rgb(28, 98, 141);
+}
+
+.card-title {
+    background-color: black;
+}
+
+p{ 
+    color: linen;
 }
